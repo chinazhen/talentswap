@@ -1,0 +1,2 @@
+(this["webpackJsonp@talent/swap"]=this["webpackJsonp@talent/swap"]||[]).push([[8],{638:function(n,t){},639:function(n,t){},665:function(n,t){},666:function(n,t){},672:function(n,t){},934:function(n,t){}}]);
+//# sourceMappingURL=8.bab3ffc1.chunk.js.map
